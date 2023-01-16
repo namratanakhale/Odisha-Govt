@@ -1,0 +1,74 @@
+.sticky-position{
+    position: -webkit-sticky; 
+    position: sticky; 
+    top: 0; 
+    background-color: #c4ffdb;  
+    z-index: 997; 
+    padding-top: 26px;
+    background-color: #b2b5bb;
+}
+
+.container{
+    margin-bottom: 0px !important ;
+          display: flex;
+          justify-content: space-between;
+}
+
+.scroll-container{
+    background-color: #5a5353d9; padding-top: 0;
+    margin-top: 0; 
+    z-index: 111;
+    width: 100% ;
+    height: 30px;
+    padding-top:7px;
+    position:absolute;
+      top: 0px;
+      display:flex;
+      justify-content:space-around;
+      flex-direction:row;
+     color: azure;
+}
+
+.mobile-responsive{
+    height:100%; 
+    border-right:#8e8e8ed9; 
+    text-align:right center; 
+    font-family:'Lato' sans-serif;
+    display:flex; 
+    /* font-weight:680; */
+    font-size:12px;
+    text-transform:capitalize;
+    font-family: Verdana, sans-serif;
+}
+.govt-heading{
+    border-right:1px solid white; 
+    padding-right:10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+}
+.odia{
+    padding-left:10px;
+}
+.container2{
+    height:100%; 
+    text-align:right center; 
+    font-family:'Lato', sans-serif;
+    display:flex; 
+    /* text-weight:680; */
+    font-size:12px;
+    text-transform:capitalize;
+    text-align:right;
+}
+.yellow-text{
+    color: #ffeb3b !important;
+    margin-right:37px
+}
+.odiayai{
+    margin-left:30px
+}
+.social-icons{
+    margin-left:30px;
+    color: azure;
+}
