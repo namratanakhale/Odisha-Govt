@@ -113,10 +113,11 @@ li:hover{
 .nav-wrapper{
     margin: 0px;
 }
-/* .tab-white-text{
-    border-left: 1px solid #14520b; 
-    padding-left:2px;
-    padding-right:2px;
-    height:43px;
-    /* color: white; */
-/* }  */
+.whitext{
+    color: white;
+    margin-top: 2px;
+}
+.box{
+    margin-left:1167px;
+    margin-bottom: -53px;
+}
