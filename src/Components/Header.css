@@ -12,6 +12,7 @@
     margin-bottom: 0px !important ;
           display: flex;
           justify-content: space-between;
+          background-color: #c4ffdb;;
 }
 
 .scroll-container{
@@ -69,6 +70,53 @@
     margin-left:30px
 }
 .social-icons{
+    display: flex;
     margin-left:30px;
     color: azure;
+    justify-content: space-around;
 }
+.navbar{
+    display: flex;
+     padding-left: 25%; 
+     background-color:#009d00; 
+     margin-top:-4px;
+     height: 43px;
+    
+}
+.main-container{
+    display:flex;
+    margin-top: 0px;
+    list-style: none;
+}
+li:hover{
+    background-color: #286e28;
+    transition: 0.5s;
+    
+}
+.home{
+    margin-top: 7px;
+}
+.white-text{
+    text-decoration: none;
+    box-sizing: border-box;
+    color:white;
+    margin-right: 27px;
+    padding-left: 6px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.odishalogo{
+    padding-top: 1%; 
+    height:100px; 
+    width:152px;
+}
+.nav-wrapper{
+    margin: 0px;
+}
+/* .tab-white-text{
+    border-left: 1px solid #14520b; 
+    padding-left:2px;
+    padding-right:2px;
+    height:43px;
+    /* color: white; */
+/* }  */
